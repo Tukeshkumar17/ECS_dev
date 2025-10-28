@@ -1,5 +1,5 @@
 # ECS_Dev - Emergency Communication System
-![](https://github.com/Tukeshkumar17/ECS_dev/intro1.gif)
+![](https://github.com/Tukeshkumar17/ECS_dev/blob/main/intro1.gif)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
